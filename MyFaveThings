@@ -1,0 +1,51 @@
+<html>
+    <head>
+    <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        
+        <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/cyborg/bootstrap.min.css" rel="stylesheet" integrity="sha384-D9XILkoivXN+bcvB2kSOowkIvIcBbNdoDQvfBNsxYAIieZbx8/SI4NeUvrRGCpDi" crossorigin="anonymous">
+    
+    </head>
+    <body>
+        <h1>TALIA'S FAVORITE THINGS</h1>
+        
+            <a href="#Movies"> Movies</a><br />
+            <a href="#Foods"> Foods</a><br />
+            <a href="#Shows"> Shows</a><br />
+            <a href="#Music"> Music</a><br />
+
+            <h3 id="Movies">My Favorite Movies:</h3>
+            <ol>
+                <li>Brown Sugar</li>
+                <li>Train Wreck</li>
+                <li>Best Man Holiday</li>
+            </ol>
+            
+            <h3 id="Foods">My Favorite Foods:</h3>
+            <ol>
+                <li>Jerk Chicken</li>
+                <li>Seafood Alfredo Pasta</li>
+                <li>BBQ Steak</li>
+            </ol>
+            
+            <h3 id="Shows">My Favorite Shows:</h3>
+            <ol>
+                <li>Being Mary Jane</li>
+                <li>Regular Show</li>
+                <li>Love and Hip Hop</li>
+            </ol>
+            
+            <h3 id="Music">My Favorite Music:</h3>
+            <ol>
+                <li>Soca/Afrobeats</li>
+                <li>Dancehall</li>
+                <li>RnB (new and old)</li>
+            </ol>
+    </body>
+</html>
